@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aniruddha Surse
-- 👀 I’m interested in Web development and Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning Node for backend.
+- 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me Gmail: aniruddhasurse88@gmail.com
 
 <!---
