@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Aniruddha Surse
 - 👀 I’m a DevOps Engineer.
-- 🌱 I’m currently learning Node for backend and React for frontend to become a Full Stack Engineer.
+- 🌱 Also a Full Stack Engineer.
 - 💞️ I’m looking to collaborate on Full Stack Projects.
 - 📫 How to reach me Gmail: aniruddhasurse88@gmail.com
 
